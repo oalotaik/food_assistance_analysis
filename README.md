@@ -1,4 +1,4 @@
-# Installation
+# Necessary Packages
 Libraries that come with the Anaconda distribution + Scikit-learn
 
 # Motivation
