@@ -2,7 +2,7 @@
 Libraries that come with the Anaconda distribution + Scikit-learn + Seaborn
 
 # Motivation
-This project was conducted in cooperation with the Central Pennsylvania Food Bank to analyze their network of food agencies, e.g soup kitchens and local food bank, in their service area which covers the 27 counties in Central PA
+This project was conducted in cooperation with the Central Pennsylvania Food Bank to analyze their network of food agencies, e.g soup kitchens and local food banks, in their service area which covers the 27 counties in Central PA
 
 # Files
 1. The jupyter notebook that contains the code
