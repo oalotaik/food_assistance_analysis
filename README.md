@@ -11,7 +11,7 @@ This project was conducted in cooperation with the Central Pennsylvania Food Ban
 4. Not uploaded: food bank partner agencies data. This data was used in the project but not provided publicly because it's confidential
 
 # Results
-Please visit my post on medium.com to learn more about the findings of this analysis [here](https://medium.com/@osotaik/leveraging-data-to-fight-hunger-484cb8dd959c)
+Please visit my post on Medium to learn more about the findings of this analysis [here](https://medium.com/@osotaik/leveraging-data-to-fight-hunger-484cb8dd959c)
 
 # Acknowledgement
 Thanks to the Central Pennsylvania Food Bank for providing the data
